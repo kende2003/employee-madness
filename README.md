@@ -134,7 +134,6 @@ cd break
 ``` bash
 cp .env.sample .env.local
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 3. Install dependencies
 
@@ -153,6 +152,9 @@ node script.js
 ``` bash
 npm run dev
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
