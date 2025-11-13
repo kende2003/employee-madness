@@ -247,17 +247,3 @@ A big thanks to the following resources and tools that helped in this project:
 [CSS3.badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3.url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-
-
-
-# Employee Madness Firebase
-
-
-## Local testing and deploy
-https://console.firebase.google.com/
-
-1. You should create an application.
-2.
-3. Fill up the variables based on firebase web getting started
-4. Setup the authentication with google and email/password
-5. You are ready to develop
