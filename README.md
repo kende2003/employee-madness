@@ -129,31 +129,27 @@ git clone https://github.com/kende2003/employee-madness
 cd break
 ```
 
-2. Copy the environment variables
-```bash
-cp .env.sample .env.local
-```
-
-3.  Copy the `.env.sample` file to `.env.local`
+2. Copy the `.env.sample` file to `.env.local`
 
 ``` bash
 cp .env.sample .env.local
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-4. Install dependencies
+3. Install dependencies
+
 ``` bash
 npm install
 ```
 
-5. Fill up the Firebase Realtime Database with dummy data
+4. Fill up the Firebase Realtime Database with dummy data
 
 ``` bash
 cd seeder
 node script.js
 ```
 
-6. Run the app
+5. Run the app
 ``` bash
 npm run dev
 ```
