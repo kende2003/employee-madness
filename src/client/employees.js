@@ -1,6 +1,6 @@
 import auth from "../firebase/auth";
-
 const BASE_URL = `${import.meta.env.VITE_FB_DATABASE_URL}/employees`;
+console.log(BASE_URL)
 
 const getToken = () => auth?.currentUser?.accessToken ?? "";
 
